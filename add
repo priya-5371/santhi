@@ -1,0 +1,3 @@
+a=int(input(enter a number))
+b=int(input(denter another number))
+print(a+b)
